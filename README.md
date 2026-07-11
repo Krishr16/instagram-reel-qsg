@@ -1,10 +1,8 @@
-# Instagram Quick Start Guide
-
-Version 1
+# Quick Start Guide: Post a Reel on Instagram
  ---
- **About this Guide**
+ ## What it Explains
  
- This guide helps you quickly get started with publishing Instagram Reels using the Instagram Graph API. It provides the minimum steps required to authenticate your application, prepare your Instagram Business or Creator account, upload a video, publish it as a Reel, and verify the publishing status.
- 
-- [Instagram Quick Start Guide](#instagram-quick-start-guide)
-  - [Version 1](#version-1)
+This guide provides a quick introduction to posting an Instagram Reel. It walks you through the essential steps, including recording a new video or selecting one from your gallery, editing your content, adding a caption and hashtags, and sharing your Reel with your audience. Whether you are posting your first Reel or need a quick refresher, this guide helps you create and publish engaging videos with confidence.
+
+|[Quick Start Guide](https://github.com/Krishr16/instagram-reel-qsg/blob/main/index.md)| Author: Krishnaveni R |
+---
