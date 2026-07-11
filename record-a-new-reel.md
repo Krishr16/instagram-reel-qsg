@@ -1,6 +1,6 @@
 ### Record a new Reel
 
-Record a new video directly in the Reel composer when you do not have existing footage. Complete this task after you open the Reel composer from [Post a reel using Create button on Home, Reels, or  your profile tab](posting-a-reel.md).
+Record a new video directly in the Reel composer when you do not have existing footage. Complete this task after you open the Reel composer from [Home](post-a-reel-from-the-home-tab.md), [Reels](post-a-reel-from-the-reels-tab.md), or  [your profile tab](post-a-reel-from-your-profile.md).
 
 To record a new Reel, use the following sequence.
 
@@ -11,7 +11,7 @@ To record a new Reel, use the following sequence.
 5. On the timeline, press and hold a clip, then drag it to a new position to reorder the clip.
 6. On the timeline, select a clip, then select **Delete** to remove the clip.
 
-![Edit](../instagram-reel-qsg/images/)
+![Edit](../instagram-reel-qsg/images/Reel-edit.png)
 
 > **Additional recording options:** In the Reel composer, select **Templates** to reuse the music and clip timing of an existing Reel. A template requires music and a minimum of 3 clips. On another account's Reel, select **Remix** to record your own video alongside it.
 

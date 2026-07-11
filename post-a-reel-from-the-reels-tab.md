@@ -14,5 +14,3 @@ The Reel composer opens. Continue to [Record a new Reel](record-a-new-reel.md) t
 > **Additional entry point:** The Stories camera also opens the same Reel composer. From the home screen, swipe right to open the Stories camera, then swipe to the **Reel** mode at the bottom of the screen.
 
 ---
-
-[Contents](index.md) · Previous: [Post a Reel from the Create button](post-a-reel-from-the-create-button.md) · Next: [Post a Reel from your profile](post-a-reel-from-your-profile.md)
