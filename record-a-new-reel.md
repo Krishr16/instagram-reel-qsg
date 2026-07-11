@@ -5,11 +5,11 @@ Record a new video directly in the Reel composer when you do not have existing f
 To record a new Reel, use the following sequence.
 
 1. In the Reel composer, press and hold the **shutter button** to record a clip.
-2. Release the shutter button to stop the clip.
-3. To add an additional clip, repeat the previous two actions.
-4. On the timeline, drag a clip edge inward or outward to trim the clip.
-5. On the timeline, press and hold a clip, then drag it to a new position to reorder the clip.
-6. On the timeline, select a clip, then select **Delete** to remove the clip.
+1. Release the shutter button to stop the clip.
+1. To add an additional clip, repeat the previous two actions.
+1. On the timeline, drag a clip edge inward or outward to trim the clip.
+1. On the timeline, press and hold a clip, then drag it to a new position to reorder the clip.
+1. On the timeline, select a clip, then select **Delete** to remove the clip.
 
 ![Edit](../instagram-reel-qsg/images/Reel-edit.png)
 

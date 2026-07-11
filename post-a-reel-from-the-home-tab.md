@@ -5,7 +5,7 @@ The Create button, at the top of the home tab, is the fastest entry point to the
 To open the Reel composer from the Create button, use the following sequence.
 
 1. At the top of the home tab, select the **plus (+)** icon.
-2. From the menu, select **Reel**.
+1. From the menu, select **Reel**.
 
 ![Home](../instagram-reel-qsg/images/Home.png)
 

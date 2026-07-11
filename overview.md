@@ -7,8 +7,9 @@ __Work Flow__
 ![Reel posting process flow](../instagram-reel-qsg/images/Workflow.png)
 
 This guide helps you complete the following tasks:
+
 1. Opening the Reel composer from the Create button on the home tab, Reels tab, or your profile tab.
-2. Choosing a content source: recording a new video, or uploading an existing file.
-3. Publishing the Reel with a cover image, a caption, and the correct settings.
+1. Choosing a content source: recording a new video, or uploading an existing file.
+1. Publishing the Reel with a cover image, a caption, and the correct settings.
 
 ---

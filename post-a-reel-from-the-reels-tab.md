@@ -5,7 +5,7 @@ The Reels tab opens the Reel composer directly from the dedicated Reels stream, 
 To open the Reel composer from the Reels tab, use the following sequence.
 
 1. On the bottom navigation bar, select the **Reels** icon.
-2. At the top of the Reels tab, select the **Create** icon.
+1. At the top of the Reels tab, select the **Create** icon.
 
 ![Reels](../instagram-reel-qsg/images/Reel.png)
 
