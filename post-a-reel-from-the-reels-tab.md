@@ -9,7 +9,7 @@ To open the Reel composer from the Reels tab, use the following sequence.
 1. On the bottom navigation bar, select the **Reels** icon.
 2. At the top of the Reels tab, select the **camera** icon.
 
-*[Insert screenshot: Reels tab with the camera icon highlighted]*
+![Reels](../instagram-reel-qsg/images/Reel.png)
 
 The Reel composer opens. Continue to [Record a new Reel](record-a-new-reel.md) to record a new video, or to [Upload a Reel from your gallery](upload-a-reel-from-your-gallery.md) to upload an existing file.
 
