@@ -11,7 +11,7 @@ To record a new Reel, use the following sequence.
 5. On the timeline, press and hold a clip, then drag it to a new position to reorder the clip.
 6. On the timeline, select a clip, then select **Delete** to remove the clip.
 
-***[Insert screenshot: Reel composer showing the shutter button and the clip timeline]***
+![Edit](../instagram-reel-qsg/images/)
 
 > **Additional recording options:** In the Reel composer, select **Templates** to reuse the music and clip timing of an existing Reel. A template requires music and a minimum of 3 clips. On another account's Reel, select **Remix** to record your own video alongside it.
 

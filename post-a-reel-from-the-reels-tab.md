@@ -1,5 +1,3 @@
-[Contents](index.md)
-
 ### Post a Reel from the Reels tab
 
 The Reels tab opens the Reel composer directly from the dedicated Reels stream, without a return to the home screen.
@@ -7,7 +5,7 @@ The Reels tab opens the Reel composer directly from the dedicated Reels stream, 
 To open the Reel composer from the Reels tab, use the following sequence.
 
 1. On the bottom navigation bar, select the **Reels** icon.
-2. At the top of the Reels tab, select the **camera** icon.
+2. At the top of the Reels tab, select the **Create** icon.
 
 ![Reels](../instagram-reel-qsg/images/Reel.png)
 

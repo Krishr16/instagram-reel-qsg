@@ -1,5 +1,3 @@
-[Contents](index.md)
-
 # Platform reference: Mobile app and web browser
 
 Instagram supports two platforms for posting a Reel: the mobile app and Instagram on the web. The mobile app supports every entry point described in [Posting a Reel](posting-a-reel.md) and every content source described in [Record a new Reel](record-a-new-reel.md) and [Upload a Reel from your gallery](upload-a-reel-from-your-gallery.md). Instagram on the web supports only the upload of an existing video file.
@@ -33,5 +31,3 @@ To post a Reel on Instagram on the web, use the following sequence.
 13. In the top-right corner, click **Share**.
 
 ---
-
-[Contents](index.md) · Previous: [Best practices](best-practices.md)

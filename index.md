@@ -1,5 +1,3 @@
-Instagram
-
 # Posting a Reel
 
 **Quick Start Guide**
@@ -7,16 +5,14 @@ Instagram
 Version: 1.0
 
 
-
-
- ### [Table of  Contents](#table-of--contents)
+### [Table of  Contents](#table-of--contents)
 
 1. [Overview](overview.md)
 1. [Posting a Reel](posting-a-reel.md)
    - [Prerequisites](posting-a-reel.md)
-   - Post a Reel from the Create button
-   - Post a Reel from the Reels tab
-   - Post a Reel from your profile
+   - [Post a Reel from the Create button](post-a-reel-from-the-create-button.md)
+   - [Post a Reel from the Reels tab](post-a-reel-from-the-reels-tab.md)
+   - [Post a Reel from your profile](post-a-reel-from-your-profile.md)
    - [Record a new Reel](record-a-new-reel.md)
    - [Upload a Reel from your gallery](upload-a-reel-from-your-gallery.md)
    - [Publish the Reel](publish-the-reel.md)

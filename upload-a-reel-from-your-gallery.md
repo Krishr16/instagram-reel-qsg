@@ -7,11 +7,13 @@ Upload an existing video or photo set when the content is already stored on your
 To upload a Reel from your gallery, use the following sequence.
 
 1. In the bottom-left corner of the Reel composer, select the **gallery icon**.
-2. Select one video file, or select multiple photos to create a photo-based Reel.
-3. For a photo-based Reel, select a photo, then drag the duration handle to set its display time.
-4. In the top-right corner, select the **checkmark icon** to confirm your selection.
+   
+![Record or upload](../instagram-reel-qsg/images/record-upload.png)
 
-*[Insert screenshot: Gallery picker with a video file selected]*
+1. Select one video file, or select multiple photos to create a photo-based Reel.
+1. For a photo-based Reel, select a photo, then drag the duration handle to set its display time.
+1. In the top-right corner, select the **checkmark icon** to confirm your selection.
+
 
 The selected content loads into the Reel composer. Continue to [Publish the Reel](publish-the-reel.md) to publish the Reel.
 
