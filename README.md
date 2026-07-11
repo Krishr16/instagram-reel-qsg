@@ -1,4 +1,4 @@
-# Quick Start Guide: Post a Reel on Instagram
+# Quick Start Guide: How to Post a Reel on Instagram
  ---
  ## What it Explains
  
