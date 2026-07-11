@@ -1,5 +1,3 @@
-
-
 ## Overview
 
 Instagram Reels are short videos that let you create and share engaging content with your followers and the wider Instagram community. Reels support a variety of creative features, including music, audio, effects, filters, text, stickers, voiceovers, and editing tools, making it easy to produce entertaining, educational, or promotional videos.
