@@ -2,7 +2,7 @@
 
 Instagram provides three entry points for opening the Reel composer: the Create button on the Home tab, the Reels tab, and your profile tab. Each entry point opens the same Reel composer, where you choose between two content sources: recording a new video, or uploading an existing file from your gallery. The next three sections describe the three entry points. The other two sections describe the two content sources. The final page in this chapter describes the shared sequence for publishing the finished Reel.
 
-- [Post a Reel from the Create button](post-a-reel-from-the-create-button.md)
+- [Post a Reel from the Home tab](post-a-reel-from-the-home-tab.md)
 - [Post a Reel from the Reels tab](post-a-reel-from-the-reels-tab.md)
 - [Post a Reel from your profile](post-a-reel-from-your-profile.md)
 - [Record a new Reel](record-a-new-reel.md)
